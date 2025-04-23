@@ -24,15 +24,15 @@ Select a movie from the dropdown
 Click "Recommend" button
 
 Get 5 similar movies with posters
-* Technical Details ⚙️
-#Data Processing:
+# Technical Details ⚙️
+* Data Processing:
 
 Combines movie details (genres, keywords, cast, director)
 
 Text cleaning and stemming
 
 Cosine similarity calculation
-*Web Interface:
+* Web Interface:
 
 Dropdown movie selector
 

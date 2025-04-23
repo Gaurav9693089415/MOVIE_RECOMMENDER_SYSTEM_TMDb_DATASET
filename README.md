@@ -22,6 +22,8 @@ Processes text data to find meaningful connections between movies
 Select a movie from the dropdown
 
 Click "Recommend" button
+# linkedin link for  Demo:
+https://www.linkedin.com/feed/update/urn:li:activity:7320848835965005826/
 
 Get 5 similar movies with posters
 # Technical Details ⚙️

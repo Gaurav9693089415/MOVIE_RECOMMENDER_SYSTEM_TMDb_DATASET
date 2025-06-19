@@ -1,1 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.similarity.pkl
+
+.ipynb_checkpoints/
+*.pyc
+
 
